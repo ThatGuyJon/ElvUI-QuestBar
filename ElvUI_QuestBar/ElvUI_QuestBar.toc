@@ -1,0 +1,10 @@
+## Interface: 30400  ## Adjust for your WoW version (e.g., 30400 for WotLK)
+## Title: ElvUI QuestBar
+## Notes: Adds a QuestBar using ElvUI ExtraActionBars Bar 10, scanning bags for usable quest items.
+## Author: Elvi (Bronzebeard)
+## Version: 1.0
+## Dependencies: ElvUI, ElvUI_ExtraActionBars
+## OptionalDeps: libElvUIPlugin-1.0
+## X-ElvUI-Module: QuestBar  ## Registers as an ElvUI module
+
+ElvUI_QuestBar.lua
